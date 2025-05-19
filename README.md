@@ -1,4 +1,4 @@
-This is my personal portfolio website showcasing my skills, projects, and experience as a full-stack Java developer.
+<p>This is my personal portfolio website showcasing my skills, projects, and experience as a full-stack Java developer.</p>
 <h1>Technologies used:</h1>
 
 Frontend: HTML, CSS, Bootstrap, Thymeleaf
